@@ -1,0 +1,5 @@
+﻿  Kyrsovaya1.cpp
+  Sample_text.cpp
+  Создание кода...
+C:\Users\USER\source\repos\Kyrsovaya1\Kyrsovaya1\Sample_text.cpp(23): warning C4715: audit::WritenodeRecurse: значение возвращается не при всех путях выполнения
+  Kyrsovaya1.vcxproj -> C:\Users\USER\source\repos\Kyrsovaya1\Debug\Kyrsovaya1.exe
